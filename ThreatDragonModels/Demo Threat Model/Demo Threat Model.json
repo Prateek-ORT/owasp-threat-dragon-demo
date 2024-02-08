@@ -948,6 +948,25 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 50,
+                "y": 50
+              },
+              "angle": 0,
+              "id": "ae87234a-b259-4eee-8f7e-bc18400c27a2",
+              "z": 25,
+              "attrs": {
+                "text": {
+                  "text": "process 21"
+                }
+              }
             }
           ]
         },
